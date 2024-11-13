@@ -6,3 +6,4 @@ And here in this `Readme.md` file, put the screenshot of important results (logs
 
 ## Your screenshots in order:
 
+![image](https://github.com/user-attachments/assets/8f5c57a2-3c20-470d-a76f-ec5ca97ecb62)
